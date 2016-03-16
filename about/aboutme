@@ -3,7 +3,7 @@
 		<title>aboutme</title> 
 	</head> 
 	<body> 
-		<a href=../index.html>Прямая ссылка</a> 
-		<a href="C:\Users\Арина\Documents\myproject\index.html">Абсолютная ссылка</a> 
+		<a href=../index.html>РџСЂСЏРјР°СЏ СЃСЃС‹Р»РєР°</a> 
+		<a href="C:\Users\РђСЂРёРЅР°\Documents\myproject\index.html">РђР±СЃРѕР»СЋС‚РЅР°СЏ СЃСЃС‹Р»РєР°</a> 
 	</body> 
 </html> 
