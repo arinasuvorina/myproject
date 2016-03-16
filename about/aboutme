@@ -1,0 +1,9 @@
+<html> 
+	<head> 
+		<title>aboutme</title> 
+	</head> 
+	<body> 
+		<a href=../index.html>Прямая ссылка</a> 
+		<a href="C:\Users\Арина\Documents\myproject\index.html">Абсолютная ссылка</a> 
+	</body> 
+</html> 
